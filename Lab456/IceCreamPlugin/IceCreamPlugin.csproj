@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>IceCreamPlugin</RootNamespace>
+    <AssemblyName>IceCreamPlugin</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab3Serialization.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Bson" Version="3.1.0">
+      <ExcludeAssets>runtime</ExcludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <Target Name="DeployIceCreamPlugin" AfterTargets="Build">
+    <PropertyGroup>
+      <_HostPluginsDir>$(MSBuildProjectDirectory)\..\bin\$(Configuration)\net8.0-windows\Plugins\</_HostPluginsDir>
+    </PropertyGroup>
+    <MakeDir Directories="$(_HostPluginsDir)" />
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(_HostPluginsDir)" SkipUnchangedFiles="true" />
+  </Target>
+
+</Project>
