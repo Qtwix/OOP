@@ -10,3 +10,15 @@ c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\FileHeaderPlugin\obj\Debug\
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\FileHeaderPlugin\obj\Debug\net8.0-windows\refint\FileHeaderPlugin.dll
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\FileHeaderPlugin\obj\Debug\net8.0-windows\FileHeaderPlugin.pdb
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\FileHeaderPlugin\obj\Debug\net8.0-windows\ref\FileHeaderPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\bin\Debug\net8.0-windows\FileHeaderPlugin.deps.json
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\bin\Debug\net8.0-windows\FileHeaderPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\bin\Debug\net8.0-windows\FileHeaderPlugin.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\FileHeaderPlugin.csproj.AssemblyReference.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\FileHeaderPlugin.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\FileHeaderPlugin.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\FileHeaderPlugin.AssemblyInfo.cs
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\FileHeaderPlugin.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\FileHeaderPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\refint\FileHeaderPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\FileHeaderPlugin.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\FileHeaderPlugin\obj\Debug\net8.0-windows\ref\FileHeaderPlugin.dll

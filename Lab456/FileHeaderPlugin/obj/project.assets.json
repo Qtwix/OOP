@@ -151,11 +151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB4\\FileHeaderPlugin\\FileHeaderPlugin.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB6\\FileHeaderPlugin\\FileHeaderPlugin.csproj",
       "projectName": "FileHeaderPlugin",
-      "projectPath": "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB4\\FileHeaderPlugin\\FileHeaderPlugin.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB6\\FileHeaderPlugin\\FileHeaderPlugin.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB4\\FileHeaderPlugin\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB6\\FileHeaderPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,8 +173,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB4\\Lab3Serialization.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB4\\Lab3Serialization.csproj"
+            "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB6\\Lab3Serialization.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Univer\\4SEMESTR\\OOP\\LAB45\\LAB6\\Lab3Serialization.csproj"
             }
           }
         }

@@ -22,3 +22,15 @@ c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\IceCreamPlugin\obj\Debug\ne
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\IceCreamPlugin\obj\Debug\net8.0-windows\refint\IceCreamPlugin.dll
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\IceCreamPlugin\obj\Debug\net8.0-windows\IceCreamPlugin.pdb
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\IceCreamPlugin\obj\Debug\net8.0-windows\ref\IceCreamPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\bin\Debug\net8.0-windows\IceCreamPlugin.deps.json
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\bin\Debug\net8.0-windows\IceCreamPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\bin\Debug\net8.0-windows\IceCreamPlugin.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\IceCreamPlugin.csproj.AssemblyReference.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\IceCreamPlugin.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\IceCreamPlugin.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\IceCreamPlugin.AssemblyInfo.cs
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\IceCreamPlugin.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\IceCreamPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\refint\IceCreamPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\IceCreamPlugin.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\IceCreamPlugin\obj\Debug\net8.0-windows\ref\IceCreamPlugin.dll

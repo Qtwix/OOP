@@ -1,0 +1,12 @@
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\bin\Debug\net8.0-windows\CryptoPluginAdapter.deps.json
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\bin\Debug\net8.0-windows\CryptoPluginAdapter.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\bin\Debug\net8.0-windows\CryptoPluginAdapter.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\CryptoPluginAdapter.csproj.AssemblyReference.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\CryptoPluginAdapter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\CryptoPluginAdapter.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\CryptoPluginAdapter.AssemblyInfo.cs
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\CryptoPluginAdapter.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\CryptoPluginAdapter.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\refint\CryptoPluginAdapter.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\CryptoPluginAdapter.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\CryptoPluginAdapter\obj\Debug\net8.0-windows\ref\CryptoPluginAdapter.dll

@@ -10,3 +10,15 @@ c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\Crc32ChecksumPlugin\obj\Deb
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\refint\Crc32ChecksumPlugin.dll
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\Crc32ChecksumPlugin.pdb
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\ref\Crc32ChecksumPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\bin\Debug\net8.0-windows\Crc32ChecksumPlugin.deps.json
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\bin\Debug\net8.0-windows\Crc32ChecksumPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\bin\Debug\net8.0-windows\Crc32ChecksumPlugin.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\Crc32ChecksumPlugin.csproj.AssemblyReference.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\Crc32ChecksumPlugin.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\Crc32ChecksumPlugin.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\Crc32ChecksumPlugin.AssemblyInfo.cs
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\Crc32ChecksumPlugin.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\Crc32ChecksumPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\refint\Crc32ChecksumPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\Crc32ChecksumPlugin.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Crc32ChecksumPlugin\obj\Debug\net8.0-windows\ref\Crc32ChecksumPlugin.dll

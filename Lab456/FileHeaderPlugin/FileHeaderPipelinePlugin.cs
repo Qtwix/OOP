@@ -13,7 +13,7 @@ public sealed class FileHeaderPipelinePlugin : IFilePipelinePlugin
 
     public string Name => "Заголовок LAB5"; // человеко-читаемое имя
 
-    public string Description => "префикс с меткой lab5hdr и длиной данных."; // описание
+    public string Description => "префикс с меткой lab5hdr и длиной данных (удобно для отладки цепочки плагинов)."; // описание
 
     public int Order => 300; // порядок выполнения (после crc32)
 
