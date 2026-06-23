@@ -10,3 +10,15 @@ c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\Sha256ChecksumPlugin\obj\De
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\refint\Sha256ChecksumPlugin.dll
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\Sha256ChecksumPlugin.pdb
 c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB4\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\ref\Sha256ChecksumPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\bin\Debug\net8.0-windows\Sha256ChecksumPlugin.deps.json
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\bin\Debug\net8.0-windows\Sha256ChecksumPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\bin\Debug\net8.0-windows\Sha256ChecksumPlugin.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\Sha256ChecksumPlugin.csproj.AssemblyReference.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\Sha256ChecksumPlugin.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\Sha256ChecksumPlugin.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\Sha256ChecksumPlugin.AssemblyInfo.cs
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\Sha256ChecksumPlugin.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\Sha256ChecksumPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\refint\Sha256ChecksumPlugin.dll
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\Sha256ChecksumPlugin.pdb
+c:\Users\User\Desktop\Univer\4SEMESTR\OOP\LAB45\LAB6\Sha256ChecksumPlugin\obj\Debug\net8.0-windows\ref\Sha256ChecksumPlugin.dll

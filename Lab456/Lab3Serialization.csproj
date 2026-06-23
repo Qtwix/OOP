@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>Lab3Serialization</RootNamespace>
+    <AssemblyName>Lab3Serialization</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Bson" Version="3.1.0" />
+  </ItemGroup>
+
+  <!-- Проект-плагин в подпапке: иначе Sdk компилировал бы его исходники в основной сборке. -->
+  <ItemGroup>
+    <Compile Remove="IceCreamPlugin\**\*.cs" />
+    <Compile Remove="Crc32ChecksumPlugin\**\*.cs" />
+    <Compile Remove="Sha256ChecksumPlugin\**\*.cs" />
+    <Compile Remove="FileHeaderPlugin\**\*.cs" />
+    <Compile Remove="Lab5CryptoPlugin\**\*.cs" />
+    <Compile Remove="CryptoPluginAdapter\**\*.cs" />
+    <Compile Remove="ExternalFilePlugin\**\*.cs" />
+    <Compile Remove="FilePipelineAdapterPlugin\**\*.cs" />
+  </ItemGroup>
+
+  <Target Name="RemoveObsoletePluginDlls" BeforeTargets="Build">
+    <ItemGroup>
+      <_ObsoletePluginDll Include="$(OutputPath)Plugins\Classmate*.dll" />
+      <_ObsoletePluginDll Include="$(OutputPath)Plugins\Oleg*.dll" />
+      <_ObsoletePluginDll Include="$(OutputPath)Plugins\ExternalFilePlugin.dll" />
+      <_ObsoletePluginDll Include="$(OutputPath)Plugins\FilePipelineAdapterPlugin.dll" />
+    </ItemGroup>
+    <Delete Files="@(_ObsoletePluginDll)" ContinueOnError="true" />
+  </Target>
+
+</Project>
